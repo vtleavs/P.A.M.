@@ -1,4 +1,6 @@
 package pam;
 
-public class Project {
+public class Project
+{
+
 }
